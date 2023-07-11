@@ -1,0 +1,97 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background: rgba(229, 84, 115, 0.10);
+    /*align-items: center;*/
+    
+}
+    
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 150px;
+}
+.part1-title{
+    color: #272727;
+    font-size: 50px;
+    font-weight: 800;
+    
+}
+.part1-text{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 18px;
+}
+.banner-image{
+    padding-top: 50px;
+    background-position: bottom right;
+}
+    
+.banner-column1{
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.btn-primary{
+    border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+}
+
+/*Featured Flower Section start*/
+
+.featured-flower-container{
+margin: 150px;
+}
+.featured-text{
+  justify-content: center; 
+}
+.featured-title{
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+.featured-description{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+/*New featured flower div*/
+.main-featured{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.flower-container{
+border-radius: 300px 300px 0px 0px;
+margin-right: 24px;
+width: 464px;
+height: 538px;
+}
+.one{
+    background-color: rgba(167, 33, 98, 0.15);
+}
+.two{
+    background-color: rgba(5, 151, 160, 0.15);
+}
+.three{
+    background-color: rgba(71, 125, 17, 0.1);
+}
+.flower-image{
+    background-position: center bottom;
+}
+.flower-text{
+color: #272727;
+text-align: center;
+font-size: 24px;
+font-weight: 700;
+text-decoration-line: underline;
+}
