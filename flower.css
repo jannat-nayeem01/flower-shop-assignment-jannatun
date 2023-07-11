@@ -68,17 +68,16 @@ font-weight: 400;
 .main-featured{
     display: flex;
     justify-content: space-between;
-    
-}
+    }
 
 .flower-container{
 border-radius: 300px 300px 0px 0px;
 margin-right: 24px;
-width: 464px;
-height: 538px;
+background-position: bottom;
 }
 .one{
     background-color: rgba(167, 33, 98, 0.15);
+    
 }
 .two{
     background-color: rgba(5, 151, 160, 0.15);
@@ -86,12 +85,12 @@ height: 538px;
 .three{
     background-color: rgba(71, 125, 17, 0.1);
 }
-.flower-image{
-    background-position: center bottom;
+.flower-pic{
+    
 }
 .flower-text-main{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     justify-items: center;
 }
 .flower-text{
