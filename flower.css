@@ -89,10 +89,15 @@ height: 538px;
 .flower-image{
     background-position: center bottom;
 }
+.flower-text-main{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
 .flower-text{
 color: #272727;
 text-align: center;
-font-size: 24px;
+font-size: 20px;
 font-weight: 700;
 text-decoration-line: underline;
 }
@@ -107,6 +112,8 @@ text-decoration-line: underline;
 }
 .service-items{
 padding: 50px 30px;
+align-items: center;
+padding-right: 20px;
 }
 
 /*Another Section*/
