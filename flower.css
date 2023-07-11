@@ -174,3 +174,29 @@ text-align: center;
 font-size: 18px;
 font-weight: 400;
 }
+
+/*Footer Section*/
+.footer-section{
+    background: #111010;
+    height: 349px;
+    padding: 50px;
+    margin-top: 50px;
+}
+.footer-title{
+color: #FFFFFF;
+font-size: 48px;
+font-weight: 800;
+text-align: center;
+}
+.footer-description{
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+.copyright-info{
+color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+}
