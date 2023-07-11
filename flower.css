@@ -13,32 +13,32 @@ font-family: 'Open Sans', sans-serif;
 .banner{
     display: flex;
     justify-content: space-between;
-    margin: 0 100px;
+    margin: 0 80px;
 }
 .part1-title{
     color: #272727;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 800;
-    
+    min-width: 400px;
 }
 .part1-text{
     color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 400;
     margin-bottom: 18px;
-}
+    }
 .banner-image{
-    padding-top: 50px;
+    padding-top: 40px;
     background-position: bottom right;
 }
     
 .banner-column1{
-    padding-right: 100px;
-    padding-bottom: 100px;
-    padding-top: 100px;
+    padding-right: 50px;
+    padding-bottom: 0;
+    padding-top: 190px;
 }
 .btn-primary{
-    border-radius: 8px;
+border-radius: 8px;
 background: #E55473;
 padding: 20px 43px;
 color: white;
